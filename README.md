@@ -1,6 +1,6 @@
 # Prajwal Zore
 
-Hello,I am Prajwal ,Systems programmer. Go enthusiast. Linux dweller.
+Hello, I am Prajwal, Systems programmer. Go enthusiast. Linux dweller.
 I care about types, correctness, and software that does exactly what it says.
 Currently building and learning.
 
@@ -27,7 +27,6 @@ Currently building and learning.
 **Environment**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Zed](https://img.shields.io/badge/Zed-084CCF?style=flat-square&logo=zedindustries&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![NeoVim](https://img.shields.io/badge/-NeoVim-black?style=flat&logo=neovim)
 
